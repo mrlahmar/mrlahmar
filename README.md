@@ -25,7 +25,7 @@ Hi there, I'm **Alaa Lahmar**, a **Full Stack Web Developer** with an eye for UI
 - 👯 I’m looking to collaborate on <strong>front-end web dev projects</strong>
 - 💼 I’m pursuing a Bachelor's degree in Computer Science
 - 💬 Ask me about anything, I am happy to help
-- 📝 See my [Resume](https://drive.google.com/file/d/1NyIIeDBeyWlO_WsfPWWnuL7xZy_FnuJn/view?usp=sharing) to get more info.
+- 📝 See my [Resume](https://drive.google.com/file/d/1F4zFZpsrmpU8Ligwnw6pOVuW8xw2f_7Y/view?usp=sharing) to get more info.
 
 **Languages and Tools:**  
 
