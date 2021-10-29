@@ -14,18 +14,17 @@
 <br />
 <br />
 
-Hi there, I'm **Alaa Lahmar**, a **Full Stack Web Developer** with an eye for UI/UX Design and a **Computer Science student** 🚀 from Tunisia.
+Hi there, I'm **Alaa Lahmar**, a Software Developer and **Computer Science graduate** 🚀 from Tunisia 🇹🇳.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on improving my techskill
-- 🌱 I’m currently learning <strong>ReactJS</strong>
-- 👯 I’m looking to collaborate on <strong>front-end web dev projects</strong>
-- 💼 I’m pursuing a Bachelor's degree in Computer Science
+- 🌱 I’m currently working on improving my <strong>JavaScript and React</strong> skills.
+- 👯 I’m looking to collaborate on <strong>JavaScript projects</strong>
+- 💼 Bachelor's degree in Computer Science
 - 💬 Ask me about anything, I am happy to help
-- 📝 See my [Resume](https://drive.google.com/file/d/1F4zFZpsrmpU8Ligwnw6pOVuW8xw2f_7Y/view?usp=sharing) to get more info.
+- 📝 See my [Resume](https://drive.google.com/file/d/1GhF3A8eDaZsMhmv0alhCN0eLxsPBU0TF/view) to get more info.
 
 **Languages and Tools:**  
 
