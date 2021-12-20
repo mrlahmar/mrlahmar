@@ -24,7 +24,7 @@ Hi there, I'm **Alaa Lahmar**, a Software Developer and **Computer Science gradu
 - 👯 I’m looking to collaborate on <strong>JavaScript projects</strong>
 - 💼 Bachelor's degree in Computer Science
 - 💬 Ask me about anything, I am happy to help
-- 📝 See my [Resume](https://drive.google.com/file/d/1GhF3A8eDaZsMhmv0alhCN0eLxsPBU0TF/view) to get more info.
+- 📝 See my [Resume](https://drive.google.com/file/d/1-s_MGOIslESzeN0Q9JtNVkY_M4WRDQSh/view) to get more info.
 
 **Languages and Tools:**  
 
