@@ -24,7 +24,7 @@ Hi there, I'm **Alaa Lahmar**, a **Software Engineer** 🚀 from Tunisia 🇹�
 - 👯 I’m looking to collaborate on <strong>open source projects</strong>
 - 💼 Bachelor's degree in Computer Science
 - 💬 Ask me about anything, I am happy to help
-- 📝 See my [Resume](https://drive.google.com/file/d/1-0zS9DFHkxKBPvvgVcq6-jwqhYROHNvD/view) to get more info.
+- 📝 See my [Resume](https://drive.google.com/file/d/1-3BVdOYn5hQSgdA75lxpJJkA9HkTtmrV/view) to get more info.
 
 **Languages and Tools:**  
 
